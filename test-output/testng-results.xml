@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-09T17:10:51 IST" name="Suite" finished-at="2024-03-09T17:11:04 IST" duration-ms="12343">
+    <groups>
+    </groups>
+    <test started-at="2024-03-09T17:10:51 IST" name="Test" finished-at="2024-03-09T17:11:04 IST" duration-ms="12343">
+      <class name="TestNG_Parameter.testNG_1.Parameter">
+        <test-method signature="testOneA(java.lang.String)[pri:0, instance:TestNG_Parameter.testNG_1.Parameter@595b007d]" started-at="2024-03-09T17:10:51 IST" name="testOneA" finished-at="2024-03-09T17:11:04 IST" duration-ms="12289" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://omayo.blogspot.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOneA -->
+      </class> <!-- TestNG_Parameter.testNG_1.Parameter -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
